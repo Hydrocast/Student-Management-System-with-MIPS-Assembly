@@ -65,6 +65,7 @@ The program runs in a MIPS simulator (like SPIM or MARS) and provides these menu
 - Modular design with separate functions for each feature
 
 ## Code Structure
+```mips
 main:
     # Main program loop and menu handling
 
